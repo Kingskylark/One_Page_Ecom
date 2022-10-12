@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(7, 93, 151);
+    padding: 3px;
+
+}
+
+.p-nav{
+    margin-left: 5px;
+    color: white;
+    /* padding: 5px; */
+}
+
+.nav-button{
+    margin-right: 5px;
+    /* padding-left: 6px;
+    padding-right: 6px; */
+}
+
+.btn{
+    border: 1px gray solid !important; 
+}
+
+a.btn:hover{
+ background-color: gray;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+    }
+
+img{
+    height: 100px;
+    margin: auto;
+    width: 100px !important;
+}
+
+.card{
+    height: 100%;
+}
